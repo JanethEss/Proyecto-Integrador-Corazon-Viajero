@@ -1,0 +1,32 @@
+body{
+    font-family: 'Calibri';
+}
+/*Caja de destinos*/
+.Box-tours{
+    background-color: transparent;
+    width: 90%;
+}
+/*Diseño del titulo*/
+.sombra{
+    text-shadow: 
+                .1px 3px .5px rgba(175, 173, 173, 0.686),
+                .1px 2px 1px rgba(175, 173, 173, 0.686),
+                .1px 2px 3px rgba(175, 173, 173, 0.686),
+                .1px 2px 4px rgba(175, 183, 173, 0.686);
+}
+.color-purple{
+    color: rgb(204, 102, 225);    
+}
+/*Diseño del subtitulo*/
+hr {
+    width: 57%;
+    height: 2px;
+    background-color: rgb(246, 71, 143);
+}
+h2{
+    font-weight: normal;
+    text-shadow: 
+                .1px 1.5px .5px rgba(118, 116, 116, 0.686),
+                .1px 1px .2px rgba(118, 116, 116, 0.686),
+                .1px 1px 2px rgba(128, 116, 116, 0.686);
+}

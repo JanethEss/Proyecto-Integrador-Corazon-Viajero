@@ -1,0 +1,38 @@
+/*Seccion quienes somos*/
+.Box-somos{
+    width: 75%;
+    height: auto;
+    padding: 1%;;
+    background: transparent;
+}
+.img-somos{
+    width: 30%;       
+}
+
+/*Seccion de las agencias*/
+.agencias{
+    width: 22%;
+    height: 22%;
+    display: inline-block;
+    background-color: transparent;
+    margin: 2%;    
+}
+.aimage{
+    border-radius: 5%;	
+}
+/*Contacto*/
+.contacto{
+    width: 60%;
+}
+.imgcontacto{
+    width: 25%;
+}
+.izq{
+    text-align: left;
+    padding: 5%;    
+    font-weight: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

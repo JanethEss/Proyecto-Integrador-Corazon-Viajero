@@ -1,0 +1,163 @@
+.Box-Opciones{    
+    width: 100%;
+}
+.contenido-opciones{
+    
+    width: 98%;
+    border-top: 1px solid #f27aa0;
+    border-bottom: 1px solid #f27aa0;
+}
+.encabezado{
+    background-color: #f27aa0;
+    
+}
+.uno{
+    width: 22%;
+    padding: 1%;
+    border: 1px solid #f27aa0;    
+}
+.dos{
+    width: 11%;    
+    text-align: center;
+    border: 1px solid #f27aa0;
+}
+.tres{
+    width: 13%;
+    
+    text-align: center;
+    border: 1px solid #f27aa0;
+}
+.cuatro{
+    width: 4%;
+   
+    text-align: center;
+    border: 1px solid #f27aa0;
+}
+.cinco{
+    width: 7%;
+    
+    text-align: center;
+    border-right: 1px solid #f27aa0;
+
+    border-bottom: 1px solid #f27aa0;
+}
+.seis{
+    width: 8%;
+    text-align: center;
+    border-right: 1px solid #f27aa0;
+
+    border-bottom: 1px solid #f27aa0;
+}
+.boton{
+    width: 5%;
+    text-align: center;
+    border-right: 1px solid #f27aa0;
+    border-bottom: 1px solid #f27aa0;
+}
+.btn{
+    width: 100%;
+    background-color: rgb(191, 138, 242);
+    border-radius: 5px;    
+}
+.separador{
+    border-bottom: 1px solid #f27aa0;
+
+}
+
+.btnagregar{
+    width: 20%;
+}
+.agregar{
+    background-color: rgb(191, 138, 242);
+    width: 95%;
+    text-align: center;
+    border-radius: 2%;
+    padding: 2%;
+}
+.ventana{
+    background-color: #FFFFFF;
+    border: 4px solid #f27aa0;
+    width: 50%;
+    padding: 2%;    
+    position: absolute;
+    left: 23%;
+    top: 10%;
+    display: none;
+}
+#cerrar{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+a{
+    color: #000000;
+    text-decoration: none;
+}
+.agr{
+    width: 25%;    
+}
+.cuadro-agregar{
+    width: 95%;
+    background-color: transparent;
+    border-color: rgb(10, 144, 229);
+    border-style: solid;
+    padding: 1%;
+    margin-bottom: 8px;
+}
+.list{
+    width: 98%;
+    background-color: transparent;
+    border: 2px solid rgb(10, 144, 229);    
+    padding: 1%;
+    margin-bottom: 8px;
+}
+.botonvent{
+    width: 8%;
+    text-align: center;
+    border-right: 1px solid #f27aa0;
+    border-bottom: 1px solid #f27aa0; 
+}
+.nom{
+    width: 16%;
+    padding: 1%;
+    border: 1px solid #f27aa0;    
+}
+.sit{
+    width: 21%;    
+    padding: 1%;
+    border: 1px solid #f27aa0;
+}
+.tel{
+    width: 16%;
+    padding: 1%;
+    border: 1px solid #f27aa0;
+}
+.dir{
+    width: 21%;
+    padding: 1%;    
+    border: 1px solid #f27aa0;
+}
+.lug{
+    width: 25%;
+    padding: 1%;    
+    border: 1px solid #f27aa0;
+}
+.des{
+    width: 25%;
+    padding: 1%;    
+    border: 1px solid #f27aa0;
+}
+.img{
+    width: 25%;
+    padding: 1%;    
+    border: 1px solid #f27aa0;
+}
+.agregarimg{
+    width: 98%;
+    background-color: rgb(10, 144, 229);        
+    border-style: none;
+    padding: 2%;   
+}
+.formlugar{
+    width: 90%;
+}

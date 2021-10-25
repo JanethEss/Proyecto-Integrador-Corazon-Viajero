@@ -1,0 +1,66 @@
+.Box-Opciones{
+    
+    width: 100%;
+}
+.contenido-opciones{
+    
+    width: 90%;
+    border-top: 1px solid #f27aa0;
+    border-bottom: 1px solid #f27aa0;
+}
+.encabezado{
+    background-color: #f27aa0;
+    
+}
+.uno{
+    width: 25%;
+    padding: 1%;
+    border: 1px solid #f27aa0;
+    
+}
+.dos{
+    width: 15%;    
+    text-align: center;
+    border: 1px solid #f27aa0;
+}
+.tres{
+    width: 13%;
+    
+    text-align: center;
+    border: 1px solid #f27aa0;
+}
+.cuatro{
+    width: 5%;
+   
+    text-align: center;
+    border: 1px solid #f27aa0;
+}
+.cinco{
+    width: 10%;
+    
+    text-align: center;
+    border-right: 1px solid #f27aa0;
+
+    border-bottom: 1px solid #f27aa0;
+}
+.seis{
+    width: 8%;
+    text-align: center;
+    border-right: 1px solid #f27aa0;
+
+    border-bottom: 1px solid #f27aa0;
+}
+.boton{
+    text-align: center;
+    border-right: 1px solid #f27aa0;
+
+    border-bottom: 1px solid #f27aa0;
+}
+.btn{
+    background-color: rgb(191, 138, 242);
+    border-radius: 5px;    
+}
+.separador{
+    border-bottom: 1px solid #f27aa0;
+
+}

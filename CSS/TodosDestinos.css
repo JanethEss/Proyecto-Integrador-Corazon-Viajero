@@ -1,0 +1,64 @@
+.Box-TodosDestinos{
+    background-color: transparent;
+    width: 90%;
+}
+.Buscador{
+    width: 50%;
+    border-style: solid;
+    padding: 1%;
+    margin-bottom: 12px;
+}
+.contenido-opciones{
+    background-color: transparent;
+    width: 70%;
+}
+/*Filtro del destino*/
+.filtro{
+    width: 25%;
+    height: auto;
+    border-left: #F96190 10px solid;
+    border-bottom: #F96190 1px solid;
+    border-top: #F96190 1px solid;
+    border-right: #F96190 1px solid;
+    margin: 10px;
+    text-align: left;
+}
+
+.contenido-filtro{    
+    width: 90%;
+    margin: 10px;
+    font-family: 'Calibri Light';
+}
+.ubicacion{
+    color: rgb(153, 102, 255);
+    font-weight: normal;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.espacio{
+    width: 5%;
+}
+/*Desplazamiento de los lugares*/
+.lugares{
+    width: 100%;
+    background-color: transparent;
+    display: inline-block;
+    padding: 0px 1%; 
+}
+.lugar{
+    background-color: transparent;
+    margin-bottom: 5%;
+}
+.Fotolugar{
+    width: 100%;
+    height: 100%;
+}
+
+/*Espacio debajo del filtro*/
+.blanco{    
+    width: 25%;
+    background-color: transparent;        
+}

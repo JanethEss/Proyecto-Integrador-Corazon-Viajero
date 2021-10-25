@@ -1,0 +1,44 @@
+body{
+    background-image: url(../IMG/FondoSeccion.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*Cuadro del reservar*/
+.Box-reservar{
+    width: 60%;
+    height: auto;
+    padding: .3%;;
+    background: transparent;   
+    font-family: 'Calibri Light'; 
+}
+.todo{
+    background-color: transparent;
+    width: 90%;
+}
+.col{
+    background-color: transparent;
+    width: 50%;
+    padding: 2%;
+}
+.imgres{
+    width: 100%;
+}
+
+/*Cuadros de texto*/
+.cuadro-num{
+    width: 40%;
+    background-color: transparent;
+    border-color: rgb(10, 144, 229);
+    border-style: solid;
+    padding: 1%;
+    margin-left: 15px;
+}
+.btn{
+    background-color: rgb(204, 102, 225);
+    width: 80%;
+    padding: 1.5%;
+    border: none;
+    color: #FFFFFF;
+}
+

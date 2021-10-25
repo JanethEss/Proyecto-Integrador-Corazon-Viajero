@@ -1,0 +1,47 @@
+body{
+    background-image: url(../IMG/FondoSeccion.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*Cuadro del login*/
+.Box-login{
+    width: 50%;
+    height: auto;
+    padding: .3%;;
+    background: transparent;   
+    font-family: 'Calibri Light'; 
+}
+
+/*Logo*/
+.login-logo{
+    width: 22%;
+    height: 22%;        
+}
+/*Formularioa*/
+.form{    
+    width: 90%;        
+}
+/*Cuadros de texto*/
+.cuadro-text{
+    width: 100%;
+    background-color: transparent;
+    border-color: rgb(10, 144, 229);
+    border-style: solid;
+    padding: 1.5%;
+    margin-bottom: 12px;
+}
+.ref{
+    width: 20%;    
+}
+.btn{
+    background-color: rgb(204, 102, 225);
+    width: 80%;
+    padding: 1.5%;
+    border: none;
+    color: #FFFFFF;
+}
+.a{
+    text-decoration: none;
+    color: rgb(10, 144, 229);;
+}
